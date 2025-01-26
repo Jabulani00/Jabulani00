@@ -29,6 +29,8 @@ Contact
 - LinkedIn:(https://www.linkedin.com/in/jabulani-m-gwala-b89439215?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - GitHub: @Jabulani00
 - www.jabulanigwalaportfolio.web.app
+
+
 Skills
 
 - Programming languages: Java, JavaScript, PHP
