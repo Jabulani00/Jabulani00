@@ -1,11 +1,11 @@
 About Me
 
 I'm Jabulani Gwala, a seasoned software developer, project manager and freelancer with expertise in web and mobile app development.
-
+I am also an entrepreneur and Co-Founder of SparkDev Studio an IT company based in South Africa
 Tech Stack
 
 - Frontend: Angular, Ionic, React Native, JavaScript, HTML/CSS
-- Backend: Node.js, Firebase, PHP, SQL
+- Backend: Node.js, Firebase, PHP, SQL, couchbase, pouchDB
 - Mobile: Ionic, React Native, Java
 - Project Management: Agile methodologies, team leadership
 
@@ -15,6 +15,8 @@ Expertise
 - Frontend and backend development
 - Project management
 - Agile methodologies
+- MS Office
+- Innovative Saas Creator
 
 Projects
 
@@ -33,9 +35,9 @@ Contact
 
 Skills
 
-- Programming languages: Java, JavaScript, PHP
+- Programming languages: Java, JavaScript, PHP, Typescript, C#, html,css
 - Frameworks: Angular, Ionic, React Native
-- Databases: SQL, Firebase Realtime Database, Cloud Firestore
+- Databases: SQL, Firebase Realtime Database, Cloud Firestore, couchbase, mongoDB
 - Operating Systems: Android, iOS
 
 
