@@ -24,6 +24,7 @@ Projects
 - www.memproxi.com
 - www.coopcv.com
 - www.wowjobs.pro
+- https://transportmanagement-system.web.app
 
 Contact
 
@@ -31,6 +32,7 @@ Contact
 - LinkedIn:(https://www.linkedin.com/in/jabulani-m-gwala-b89439215?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - GitHub: @Jabulani00
 - www.jabulanigwalaportfolio.web.app
+- www.jabulanigwala.bio
 
 
 Skills
