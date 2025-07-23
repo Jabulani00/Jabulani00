@@ -102,7 +102,18 @@ As Co-Founder of **SparkDev Studio**, I lead a team of talented developers in cr
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Project Portfolio Stats
+
+<div align="center">
+  
+![Total Repositories](https://img.shields.io/badge/Total%20Repositories-58-blue?style=for-the-badge&logo=github)
+![Live Projects](https://img.shields.io/badge/Live%20Projects-15-success?style=for-the-badge&logo=rocket)
+![Completed Projects](https://img.shields.io/badge/Completed%20Projects-35-orange?style=for-the-badge&logo=check-circle)
+![In Development](https://img.shields.io/badge/In%20Development-8-yellow?style=for-the-badge&logo=code)
+
+</div>
+
+## 📈 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jabulani00&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
