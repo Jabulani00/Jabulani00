@@ -1,13 +1,13 @@
 # Hi there! 👋 I'm Jabulani Gwala
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Mobile+App+Developer;WordPress+%26+WooCommerce+Expert;SaaS+Creator;Technical+SEO+%26+AEO" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Mobile+App+Developer;WordPress+%26+WooCommerce+Expert;SaaS+Creator;Technical+SEO+%26+AEO;Python+%26+Machine+Learning" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <strong>Software Developer | Project Manager | Web Dev | Freelancer</strong>
   <br>
-  Tech Stack: Angular · WordPress · Firebase · Ionic · React Native · Java · JavaScript · PHP · SQL · SEO
+  Tech Stack: Angular · WordPress · Firebase · Ionic · React Native · Java · JavaScript · Python · Machine Learning · PHP · SQL · Technical SEO
 </div>
 
 <div align="center">
@@ -22,10 +22,12 @@ I'm a **full-stack developer**, **project manager**, and **freelancer** based in
 
 - 🔭 Currently building SaaS platforms, mobile apps, and high-performance WordPress/WooCommerce sites
 - 📱 Specialising in cross-platform mobile development with React Native & Ionic
+- 🐍 Exploring Python for automation, data processing, and machine learning
+- 🤖 Building and experimenting with machine learning models and data-driven features
 - 🔍 Focused on technical SEO, Answer Engine Optimization (AEO), Core Web Vitals, and structured data
 - 🌐 Building beautiful, fast, accessible web experiences with React, Angular & Node.js
 - 👯 Looking to collaborate on innovative projects
-- 💬 Ask me about mobile dev, web development, WordPress, SEO/AEO, or entrepreneurship
+- 💬 Ask me about mobile dev, web development, WordPress, Python, machine learning, SEO/AEO, or entrepreneurship
 - ⚡ Fun fact: I turn coffee into code and ideas into profitable businesses!
 
 ---
@@ -54,8 +56,16 @@ I'm a **full-stack developer**, **project manager**, and **freelancer** based in
 
 ### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+### Data Science & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### Databases
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
@@ -64,7 +74,7 @@ I'm a **full-stack developer**, **project manager**, and **freelancer** based in
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### SEO, Performance & Other
-![SEO](https://img.shields.io/badge/Technical_SEO-4285F4?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
+![Technical SEO](https://img.shields.io/badge/Technical_SEO-4285F4?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
 ![Schema.org](https://img.shields.io/badge/Structured_Data-FF6900?style=for-the-badge&logo=json&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -158,6 +168,8 @@ A growing portfolio of professional WordPress/WooCommerce websites built for bus
 - **💻 Full-Stack Apps:** End-to-end web applications — database architecture, APIs, and pixel-perfect UI
 - **☁️ Digital Platforms:** eCommerce, marketplaces, and SaaS platforms engineered to convert, retain, and scale
 - **🌐 Web Experiences:** Marketing sites and brand experiences built for performance and conversion
+- **🐍 Python Development:** Scripting, automation, data processing, and backend services with Python
+- **🤖 Machine Learning:** Data-driven features, predictive models, and ML-powered functionality using Python, scikit-learn & TensorFlow
 - **🔎 Technical SEO:** Crawlability, indexation, canonical URLs, sitemaps, and search-engine discoverability
 - **⚡ Core Web Vitals:** Performance engineering focused on LCP, INP, and CLS
 - **🧩 Structured Data:** Schema.org & JSON-LD implementation for richer search results
