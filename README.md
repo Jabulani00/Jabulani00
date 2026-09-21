@@ -1,20 +1,25 @@
 # Hi there! 👋 I'm Jabulani Gwala
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Mobile+App+Developer;WordPress+Expert;Co-Founder+%40+SparkDev+Studio;SaaS+Creator;AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Mobile+App+Developer;WordPress+%26+WooCommerce+Expert;Co-Founder+%40+SparkDev+Studio;SaaS+Creator;Technical+SEO+%26+AEO" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <em>"I don't design. I build experiences."</em>
 </div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a **seasoned software developer**, **project manager**, and **freelancer** based in South Africa, with a passion for creating innovative web and mobile applications. As the **Co-Founder of SparkDev Studio**, I lead development teams and build cutting-edge SaaS platforms, mobile apps, and WordPress solutions that solve real-world problems.
+I'm a **full-stack developer**, **project manager**, and **freelancer** based in **Durban, South Africa**, building products worldwide. As the **Co-Founder of SparkDev Studio**, I lead development teams and ship SaaS platforms, mobile apps, and WordPress/WooCommerce sites that solve real-world problems.
 
-- 🔭 Currently building mobile apps, WordPress sites, and AI-powered solutions
+- 🔭 Currently building SaaS platforms, mobile apps, and high-performance WordPress/WooCommerce sites
 - 📱 Specialising in cross-platform mobile development with React Native & Ionic
-- 🌐 Building beautiful, high-performance WordPress websites for businesses
+- 🔍 Focused on technical SEO, Answer Engine Optimization (AEO), Core Web Vitals, and structured data
+- 🌐 Building beautiful, fast, accessible web experiences with React, Angular & Node.js
 - 👯 Looking to collaborate on innovative projects
-- 💬 Ask me about mobile dev, web development, WordPress, or entrepreneurship
+- 💬 Ask me about mobile dev, web development, WordPress, SEO/AEO, or entrepreneurship
 - ⚡ Fun fact: I turn coffee into code and ideas into profitable businesses!
 
 ---
@@ -38,6 +43,7 @@ I'm a **seasoned software developer**, **project manager**, and **freelancer** b
 
 ### CMS & Website Development
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
 
 ### Backend Development
@@ -51,7 +57,9 @@ I'm a **seasoned software developer**, **project manager**, and **freelancer** b
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### Other Technologies
+### SEO, Performance & Other
+![SEO](https://img.shields.io/badge/Technical_SEO-4285F4?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
+![Schema.org](https://img.shields.io/badge/Structured_Data-FF6900?style=for-the-badge&logo=json&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
@@ -61,10 +69,11 @@ I'm a **seasoned software developer**, **project manager**, and **freelancer** b
 
 As Co-Founder of **SparkDev Studio**, I lead a team of talented developers in creating innovative IT solutions. We specialize in:
 
-- 🌐 Custom Web Applications & WordPress Sites
+- 🌐 Custom Web Applications & WordPress/WooCommerce Sites
 - 📱 Mobile App Development (iOS & Android)
 - 🤖 AI-Powered Solutions
 - ☁️ SaaS Platform Development
+- 🔍 Technical SEO & Answer Engine Optimization
 - 🎯 Project Management & Consulting
 
 **Visit us:** [sparkdevstudio.org](https://www.sparkdevstudio.org/)
@@ -95,53 +104,78 @@ As Co-Founder of **SparkDev Studio**, I lead a team of talented developers in cr
 
 ---
 
-## 🌐 WordPress Projects
+## 🌐 WordPress & WooCommerce Projects
 
-A growing portfolio of professional WordPress websites built for businesses and organisations across South Africa and beyond.
+A growing portfolio of professional WordPress/WooCommerce websites built for businesses and organisations across South Africa and beyond.
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **Heal Love Live Invest** | Wellness & lifestyle brand website | [Visit Site](https://www.healloveliveinvest.co.za/) |
+| **Visionetix** | WooCommerce store | [Visit Site](https://visionetix.co.za) |
+| **The View Country House** | Hospitality & accommodation | [Visit Site](https://theviewcountryhouse.co.za/) |
+| **Pro Beauty SA** | Beauty & cosmetics store | [Visit Site](https://www.probeautysa.co.za/) |
+| **Radiance Beauty Studio** | Beauty studio website | [Visit Site](https://ctheradiancebeautystudio.co.za) |
 | **Nodwengu** | Business website | [Visit Site](https://nodwengu.co.za/) |
-| **Innovative Renew Africa** | Environmental & sustainability platform | [Visit Site](https://innovativerenewafrica.com/) |
+| **Heal Love Live Invest** | Wellness & lifestyle brand website | [Visit Site](https://www.healloveliveinvest.co.za/) |
 | **Asakhe Hardware** | Hardware & construction business | [Visit Site](https://asakhehardware.co.za/demos/) |
+| **Brand Klear** | Business website | [Visit Site](https://brandklear.co.za/) |
+| **Best Brightness Store** | eCommerce storefront | [Visit Site](https://bestbrightnesstore.co.za/) |
+| **Smart Company Services** | Business services website | [Visit Site](https://www.smartcompanyservices.co.za/public_html/demo/) |
+| **Innovative Renew Africa** | Environmental & sustainability platform | [Visit Site](https://innovativerenewafrica.com/) |
 | **Dream Big Stay Humble** | Lifestyle & motivational platform | [Visit Site](https://dreambigstayhumble.com) |
+| **Isihawu IOD** | Organisation website | [Visit Site](https://isihawuiod.com/) |
+| **Xperience Hub** | Organisation website | [Visit Site](https://www.xperiencehub.org.za/) |
 | **iSkill Academy** | Online learning & skills platform | [Visit Site](https://iskillacademy.co.za/) |
 | **SASCE** | Organisation & association website | [Visit Site](https://sasce.net/) |
+| **Life Changing Journey** | Lifestyle brand website | [Visit Site](https://www.lifechangingjourney.co.za/) |
 
 ---
 
-## 💼 Angular & Full-Stack Projects
+## 💼 React, Angular & Node.js Projects
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
 | **Memproxi** | Academic conference management platform | Angular, Firebase | [Visit Site](https://memproxi.com/) |
-| **CoopCV** | Professional CV & career platform | Angular, Firebase | [Visit Site](https://www.coopcv.com/) |
+| **CoopCV** | Professional CV & career platform | Node.js, Firebase | [Visit Site](https://www.coopcv.com/) |
+| **Football Analytics** | Football stats & analytics dashboard | React | [Visit Site](https://football-analytics-rose.vercel.app/) |
 | **DropIt Courier** | On-demand courier marketplace | Angular, Firebase | [Visit Site](https://dropit-courier.web.app/) |
 | **Healixir** | Digital healthcare management suite | Angular, Firebase | [Visit Site](https://healixir.org/) |
-| **ICTMS** | Container transport management system | Angular, Firebase | [Visit Site](https://transportmanagement-system.web.app/) |
+| **ICTMS** | Container transport management system | Node.js, Firebase | [Visit Site](https://transportmanagement-system.web.app/) |
+| **SpareShop Inventory** | Spare parts inventory management system | React, Firebase | [Visit Site](https://spareshop-inventory.vercel.app/) |
+| **KZN COGTA CSS** | Case/service system | React | [Visit Site](https://kzn-cogta-css.vercel.app/) |
 | **WowJobs Blog** | Career advice & job tips blog | Angular, CMS | [Visit Site](https://www.wowjobs.blog/) |
 | **UnitEasy** | Unit management web app | Angular, Firebase | [Visit Site](https://uniteasy-62dbf.web.app/) |
 | **IPM World** | News & posts platform | Angular | [Visit Site](https://ipmworld.co.za/posts) |
 | **Workscape** | Workplace & HR solution | Angular | [Visit Site](https://workscape.vercel.app/home) |
-
----
-
-## ⚛️ React Projects
-
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| **SpareShop Inventory** | Spare parts inventory management system | React, Firebase | [Visit Site](https://spareshop-inventory.vercel.app/) |
 | **Best eCommerce** | Full-featured eCommerce storefront | React | [Visit Site](https://best-ecormmerce.vercel.app/) |
 
 ---
 
-## 🔧 Bootstrap & Portfolio Projects
+## 🔧 HTML / Bootstrap Projects
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **Personal Portfolio** | Developer portfolio site | [Visit Site](https://portfolio-d429a.web.app/) |
 | **SparkDev Studio** | Agency website | [Visit Site](https://www.sparkdevstudio.org/) |
+| **iSkill Academy** | Online learning platform | [Visit Site](https://www.iskillacademy.co.za/) |
+| **SASCE** | Organisation & association website | [Visit Site](https://sasce.net/) |
+| **Life Changing Journey** | Lifestyle brand website | [Visit Site](https://lifechangingjourney.co.za) |
+| **Personal Portfolio** | Developer portfolio site | [Visit Site](https://portfolio-d429a.web.app/) |
+
+---
+
+## 🔍 What I Offer
+
+- **💻 Full-Stack Apps:** End-to-end web applications — database architecture, APIs, and pixel-perfect UI
+- **☁️ Digital Platforms:** eCommerce, marketplaces, and SaaS platforms engineered to convert, retain, and scale
+- **🌐 Web Experiences:** Marketing sites and brand experiences built for performance and conversion
+- **🔎 Technical SEO:** Crawlability, indexation, canonical URLs, sitemaps, and search-engine discoverability
+- **⚡ Core Web Vitals:** Performance engineering focused on LCP, INP, and CLS
+- **🧩 Structured Data:** Schema.org & JSON-LD implementation for richer search results
+- **♿ Accessibility:** Semantic HTML, keyboard navigation, ARIA, and screen-reader-friendly structures
+- **🚀 Web Performance:** Optimized images, lazy loading, code splitting, caching, and CDN delivery
+- **🔒 Web Security:** HTTPS, secure headers, dependency hygiene, and secure API communication
+- **📊 Data & Analytics:** Event tracking, conversion measurement, and performance monitoring
+- **📱 Mobile Development:** Cross-platform apps using React Native, Ionic & Flutter
+- **🎯 Project Management:** Agile methodologies and team leadership
 
 ---
 
@@ -150,8 +184,8 @@ A growing portfolio of professional WordPress websites built for businesses and 
 <div align="center">
 
 ![Total Repositories](https://img.shields.io/badge/Total%20Repositories-60+-blue?style=for-the-badge&logo=github)
-![Live Projects](https://img.shields.io/badge/Live%20Projects-25+-success?style=for-the-badge&logo=rocket)
-![WordPress Sites](https://img.shields.io/badge/WordPress%20Sites-7+-informational?style=for-the-badge&logo=wordpress)
+![Live Projects](https://img.shields.io/badge/Live%20Projects-30+-success?style=for-the-badge&logo=rocket)
+![WordPress Sites](https://img.shields.io/badge/WordPress%2FWooCommerce%20Sites-16+-informational?style=for-the-badge&logo=wordpress)
 ![Mobile Apps](https://img.shields.io/badge/Mobile%20Apps-5+-orange?style=for-the-badge&logo=android)
 
 </div>
@@ -181,28 +215,16 @@ A growing portfolio of professional WordPress websites built for businesses and 
 
 ---
 
-## 💡 What I Offer
-
-- **📱 Mobile Development:** Cross-platform mobile apps using React Native, Ionic & Flutter
-- **🌐 WordPress Development:** Beautiful, fast, SEO-optimised WordPress websites
-- **💻 Full-Stack Development:** End-to-end web applications with Angular & React
-- **🤖 AI Integration:** Smart solutions powered by artificial intelligence
-- **🎯 Project Management:** Agile methodologies and team leadership
-- **🚀 SaaS Development:** Scalable software-as-a-service platforms
-- **☁️ Cloud Solutions:** Firebase, Supabase, and modern cloud architectures
-
----
-
 ## 🤝 Let's Connect!
 
-I'm always excited to collaborate on innovative projects and connect with fellow developers and entrepreneurs.
+I'm always excited to collaborate on innovative projects and connect with fellow developers and entrepreneurs. Available for freelance projects, remote contracts, and long-term collaborations — based in Durban, South Africa, working with global teams.
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jabula7@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jabulani-m-gwala-b89439215)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jabulani-m-gwala)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jabu.gwala/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.jabulanigwala.bio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pouroid-inc.vercel.app/)
 
 </div>
 
@@ -214,7 +236,7 @@ I'm always excited to collaborate on innovative projects and connect with fellow
 
 <div align="center">
 
-### 🌟 "Transforming ideas into digital realities, one line of code at a time." 🌟
+### 🌟 "I don't design. I build experiences." 🌟
 
 </div>
 
