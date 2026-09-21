@@ -1,7 +1,13 @@
 # Hi there! 👋 I'm Jabulani Gwala
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Mobile+App+Developer;WordPress+%26+WooCommerce+Expert;Co-Founder+%40+SparkDev+Studio;SaaS+Creator;Technical+SEO+%26+AEO" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Mobile+App+Developer;WordPress+%26+WooCommerce+Expert;SaaS+Creator;Technical+SEO+%26+AEO" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <strong>Software Developer | Project Manager | Web Dev | Freelancer</strong>
+  <br>
+  Tech Stack: Angular · WordPress · Firebase · Ionic · React Native · Java · JavaScript · PHP · SQL · SEO
 </div>
 
 <div align="center">
@@ -12,7 +18,7 @@
 
 ## 🚀 About Me
 
-I'm a **full-stack developer**, **project manager**, and **freelancer** based in **Durban, South Africa**, building products worldwide. As the **Co-Founder of SparkDev Studio**, I lead development teams and ship SaaS platforms, mobile apps, and WordPress/WooCommerce sites that solve real-world problems.
+I'm a **full-stack developer**, **project manager**, and **freelancer** based in **Durban, South Africa**, building products worldwide. I ship SaaS platforms, mobile apps, and WordPress/WooCommerce sites that solve real-world problems.
 
 - 🔭 Currently building SaaS platforms, mobile apps, and high-performance WordPress/WooCommerce sites
 - 📱 Specialising in cross-platform mobile development with React Native & Ionic
@@ -62,21 +68,6 @@ I'm a **full-stack developer**, **project manager**, and **freelancer** based in
 ![Schema.org](https://img.shields.io/badge/Structured_Data-FF6900?style=for-the-badge&logo=json&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
----
-
-## 🏢 SparkDev Studio - Co-Founder
-
-As Co-Founder of **SparkDev Studio**, I lead a team of talented developers in creating innovative IT solutions. We specialize in:
-
-- 🌐 Custom Web Applications & WordPress/WooCommerce Sites
-- 📱 Mobile App Development (iOS & Android)
-- 🤖 AI-Powered Solutions
-- ☁️ SaaS Platform Development
-- 🔍 Technical SEO & Answer Engine Optimization
-- 🎯 Project Management & Consulting
-
-**Visit us:** [sparkdevstudio.org](https://www.sparkdevstudio.org/)
 
 ---
 
